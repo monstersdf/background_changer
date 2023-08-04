@@ -63,3 +63,9 @@ button:hover{
     border-radius: 10px;
   border-color: yellow;
 }
+.bg-changer{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  line-height: 90vh;
+}
